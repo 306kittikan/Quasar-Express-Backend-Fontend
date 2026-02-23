@@ -31,4 +31,14 @@ backend/logs/
 
 # Build outputs
 frontend/dist/
+
+
+# Node
+node_modules/
+
+# Env files
+**/.env
+
+# Backend logs
+backend/logs/
 >>>>>>> feature/frontend-axios-integration
